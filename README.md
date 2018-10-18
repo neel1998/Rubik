@@ -1,2 +1,2 @@
-# Rubik
-c code to solve rubiks cube by layer by layer algo(in progress..)
+### RUBIK CUBE PROGRAM
+- CPP code to solve Rubik's Cube.
